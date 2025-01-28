@@ -38,8 +38,5 @@ Sintara is a voice-controlled personal assistant that performs various tasks, fr
   - `datetime`
   - `wikipedia`
 
-### **Installation**
 
-1. Clone this repository:
-   ```bash
 
